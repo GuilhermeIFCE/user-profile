@@ -1,0 +1,43 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+* {
+    font-family: 'SF Pro Display', sans-serif;
+}
+
+.princ {
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    background-color: #F8F8F8;
+    padding-top: 20px;
+    border-radius: 4%;
+    box-shadow: 5px 10px 10px #888888;
+    border: 1px solid #00000049;
+}
+
+.prof-pic {
+    width: 200px;
+    height: 205px;
+    border-radius: 100%;
+    border: 3px solid black;
+}
+
+.prof-name {
+    padding-top: 10px;
+
+}
+
+.prof-func {
+    font-size: 20px;
+    padding-bottom: 10px;
+
+}
+
+a {
+    background-color: rgba(0, 0, 0, 0.813);
+    color: white;
+    text-decoration: none;
+    border-radius: 100%;
+    padding: 17px;
+    margin: 5px;
+}
